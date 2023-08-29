@@ -4,6 +4,7 @@
 DictionaryApp - Dictionary App that Displays Word Meanings and Pronunciations
 
 ![giris](https://github.com/SevvalAtes54/DictionaryApp/assets/116071942/bc4d1db3-fbe3-47f9-8cb4-97ae97d2634d)
+
 ![arama](https://github.com/SevvalAtes54/DictionaryApp/assets/116071942/7b0a0441-0683-41d4-a925-3663764f318b)
 
 
