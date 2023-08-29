@@ -3,7 +3,8 @@
 
 DictionaryApp - Dictionary App that Displays Word Meanings and Pronunciations
 
-![App Screenshot](screenshot.png)
+![First Look](https://github.com/SevvalAtes54/DictionaryApp/assets/116071942/a3c0d7b9-274d-43a5-acfb-c0a2bb8f7740)
+
 
 ## About the Project
 
