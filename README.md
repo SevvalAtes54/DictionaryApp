@@ -42,7 +42,7 @@ The app fetches word information from an external API and presents it in a user-
 
 ## Developers
 
-- Your Name - https://github.com/SevvalAtes54 & https://github.com/Onur-Akman
+- Names - https://github.com/SevvalAtes54 & https://github.com/Onur-Akman
 
 ## Contributing
 
@@ -51,7 +51,3 @@ The app fetches word information from an external API and presents it in a user-
 3. Commit your changes: `git commit -am 'Added a new feature'`
 4. Merge your branch with the main repo: `git pull origin main`
 5. Push your branch: `git push origin new-feature`
-
-## License
-
-This project is licensed under the MIT License. For more information, refer to the [LICENSE](LICENSE) file.
